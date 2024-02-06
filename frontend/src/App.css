@@ -1,0 +1,45 @@
+.App {
+  text-align: left;
+}
+* {
+  width: auto;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  width: 100%;
+
+  padding-top: 0px !important;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.nav-link:hover {
+  background-color: orangered;
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  font-size: 17px;
+  transition: 0.4s;
+}
+a:hover {
+  color: black;
+}
+.heading {
+  letter-spacing: 3px;
+  background-color: blue;
+}
+

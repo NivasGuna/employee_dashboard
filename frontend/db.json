@@ -1,0 +1,108 @@
+{
+  "user": [
+    {
+      "id": "M1093416",
+      "password": "12345",
+      "cnfpss": "12345",
+      "email": "Madhavangopal@gmail.com",
+      "name": "Madhavan",
+      "phone": "123456",
+      "gender": "male"
+    },
+    {
+      "id": "Joe",
+      "password": "123456",
+      "cnfpss": "123456",
+      "email": "joe@gmail.com",
+      "name": "Joes",
+      "phone": "8072337581",
+      "gender": "male"
+    },
+    {
+      "id": "John",
+      "password": "12345678",
+      "cnfpss": "12345678",
+      "email": "john@gmail.com",
+      "name": "JohnSmith",
+      "phone": "9043554643",
+      "gender": "male"
+    },
+    {
+      "id": "Raj",
+      "password": "1234567",
+      "cnfpss": "1234567",
+      "email": "raj@gmail.com",
+      "name": "RAjkumar",
+      "phone": "34465674356",
+      "gender": "male"
+    },
+    {
+      "id": "bala",
+      "password": "22102001",
+      "cnfpss": "22102001",
+      "email": "bala43337@gmail.com",
+      "name": "balasubramanian",
+      "phone": "7502013704",
+      "gender": "male"
+    },
+    {
+      "id": "ram",
+      "password": "123456",
+      "cnfpss": "123456",
+      "email": "abc@gmail.com",
+      "name": "Ram S",
+      "phone": "8833333339",
+      "gender": "male"
+    }
+  ],
+  "employee": [
+    {
+      "id": 1010,
+      "name": "Hari",
+      "email": "hari@gmail.com",
+      "role": "FullStack Engineer",
+      "experience": "",
+      "primarySkill": "",
+      "secondarySkill": "",
+      "currentlyInProject": "",
+      "phone": "",
+      "active": true
+    },
+    {
+      "name": "Madhavan",
+      "email": "madhavan@gmail.com",
+      "phone": "6878534242",
+      "active": true,
+      "role": "CEO",
+      "id": 1011
+    },
+    {
+      "name": "Lingesh",
+      "email": "lingesh@gmail.com",
+      "phone": "7374738834",
+      "active": true,
+      "role": "CFO",
+      "id": 1012
+    },
+    {
+      "name": "Kavinraj",
+      "email": "kavinraj",
+      "phone": "6563833885",
+      "active": true,
+      "role": "Backend",
+      "id": 1013
+    },
+    {
+      "id": 1014,
+      "name": "Mulugu Haribabu",
+      "email": "haribabu@gmail.com",
+      "role": "Frontened",
+      "experience": "",
+      "primarySkill": "",
+      "secondarySkill": "",
+      "currentlyInProject": "",
+      "phone": "7573477383",
+      "active": true
+    }
+  ]
+}
